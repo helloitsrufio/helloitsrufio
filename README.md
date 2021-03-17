@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruth Reed!</h1>
+<h1 align="center">Hi! I'm Ruth Reed! Welcome to my Github Profile.</h1>
 <h3 align="center">I'm a front-end developer who really loves creating beautiful sites and learning something new every day.</h3>
 
 <p align="left"> <a href="https://twitter.com/helloitsrufio" target="blank"><img src="https://img.shields.io/twitter/follow/helloitsrufio?logo=twitter&style=for-the-badge" alt="helloitsrufio" /></a> </p>
