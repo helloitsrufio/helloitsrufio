@@ -16,8 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloitsrufio&show_icons=true&locale=en" alt="helloitsrufio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloitsrufio&" alt="helloitsrufio" /></p>
-
 <h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://dev.to/helloitsrufio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="helloitsrufio" height="30" width="40" /></a>
