@@ -1,5 +1,4 @@
-<h1 align="center">Hi! I'm Ruth Reed! I'm a software engineer @100Devs.</h1>
-<h3 align="center">I'm a front-end developer who really loves creating beautiful sites and learning something new every day. I'm currently working up to full-stack by diving into Node.js.</h3>
+<h1 align="center">Hi! I'm Ruth Reed! I'm a full-stack software engineer @100Devs.</h1>
 
 <p align="left"> <a href="https://twitter.com/helloitsrufio" target="blank"><img src="https://img.shields.io/twitter/follow/helloitsrufio?logo=twitter&style=for-the-badge" alt="helloitsrufio" /></a> </p>
 
