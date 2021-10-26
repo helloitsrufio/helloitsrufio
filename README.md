@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node.js & React**.
 
-- 👨‍💻 All of my projects are available @ [https://ruthreed.netlify.app](https://ruthreed.netlify.app)
+- 👨‍💻 All of my projects are available @ [https://ruthreed.dev](https://ruthreed.dev)
 
 - 📫 Reach me @ **ruthreed.dev@gmail.com**
 
