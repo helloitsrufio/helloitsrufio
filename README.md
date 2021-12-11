@@ -1,7 +1,5 @@
 <h1 align="center">Hi! I'm Ruth Reed! I'm a full-stack software engineer @100Devs.</h1>
 
-<p align="left"> <a href="https://twitter.com/helloitsrufio" target="blank"><img src="https://img.shields.io/twitter/follow/helloitsrufio?logo=twitter&style=for-the-badge" alt="helloitsrufio" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js & React**.
 
 - 👨‍💻 All of my projects are available @ [https://ruthreed.dev](https://ruthreed.dev)
@@ -11,7 +9,23 @@
 - ⚡ Fun fact: **I have lived in nine different countries.**
 
 <h3>See some of my projects:</h3>
-![Gif of Southern Paiute Dictionary](https://imgur.com/Y4jrdmv.png)
+<table>
+  <tbody>
+    <tr>
+      <td width='33%' valign='top'>
+        <h4>Southern Paiute Talking Dictionary</h4>
+        <img src="https://imgur.com/Y4jrdmv.gif" alt="Gif of Southern Paiute Dictionary style="max-width: 100%;" width="100%"">
+        <br>
+        <p>
+          <strong style="max-width: 50%;" width="50%">EJS, CSS3, JavaScript, Node.js, Express.js, MongoDB, Cloudinary, Nodemailer</strong>
+          - A web app built to enable access to words, phrases, sentences, and their audio counterparts in the Cedar Band dialect of the Southern Paiute language.
+        </p>
+      </td>
+      <td width='33%' valign='top'>
+      </td>
+    </tr>
+  </tbody>
+ </table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
