@@ -38,21 +38,32 @@ You can reach me @ **ruthreed.dev@gmail.com**.
 </table>
 <br>
 
-<h3>See some of my projects:</h3>
+<h3>See some of the projects I've contributed to:</h3>
    <section dir='auto'>
     <table>
       <tbody>
         <tr>
           <td width='33%' valign='top'>
             <h4>Southern Paiute Talking Dictionary</h4>
-            <img src="https://imgur.com/Y4jrdmv.gif" alt="Gif of Southern Paiute Dictionary style="max-width: 100%;" width="100%"">
+            <img src="https://imgur.com/Y4jrdmv.gif" alt="Gif of Southern Paiute Dictionary" style="max-width: 100%;" width="100%"">
             <br>
             <p>
               <strong style="max-width: 50%;" width="50%">EJS, CSS3, JavaScript, Node.js, Express.js, MongoDB, Cloudinary, Nodemailer</strong>
               - A web app built to enable access to words, phrases, sentences, and their audio counterparts in the Cedar Band dialect of the Southern Paiute language.
+             <br>
+              <p>You can access this app <a href='https://southernpaiutedictionary.herokuapp.com/'>here</a>.</p>
             </p>
           </td>
           <td width='33%' valign='top'>
+            <h4> Opinions Social Network</h4>
+            <img src="https://media.giphy.com/media/eKhhSRRiIW3OrkU5ef/giphy.gif" alt="Gif of Opinions Social Network" style="max-width: 100%;" width="100%"">
+            <br>
+            <p>
+              <strong style="max-width: 50%;" width="50%">EJS, TailwindCSS, JavaScript, Node.js, Express.js, MongoDB, Mongoose, Cloudinary</strong>
+              - A social media app built to share and look at other people's opinions. 
+              <br>
+              <p>You can access this app <a href='https://opinions-social-network.herokuapp.com'>here</a>.</p>
+            </p>
           </td>
         </tr>
       </tbody>
