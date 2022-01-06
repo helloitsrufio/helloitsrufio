@@ -54,6 +54,17 @@ You can reach me @ **ruthreed.dev@gmail.com**.
               <p>You can access this app <a href='https://southernpaiutedictionary.herokuapp.com/'>here</a>.</p>
             </p>
           </td>
+           <td width='33%' valign='top'>
+           <h4>Salt City Grooming</h4>
+           <img src="https://media.giphy.com/media/X75BImtySTRnz0QKnz/giphy.gif" alt="Gif of Salt City Grooming" style="max-width: 100%;" width="100%"">
+            <br>
+            <p>
+              <strong style="max-width: 50%;" width="50%">HTML5, CSS3</strong>
+              - A static app for a fictional pet store company. Contains the following sections: introductory, services, and contact.
+              <br>
+              <p>You can access this app <a href='https://saltcitygrooming.netlify.app/'>here</a>.</p>
+            </p>
+           </td>
           <td width='33%' valign='top'>
             <h4> Opinions Social Network</h4>
             <img src="https://media.giphy.com/media/eKhhSRRiIW3OrkU5ef/giphy.gif" alt="Gif of Opinions Social Network" style="max-width: 100%;" width="100%"">
