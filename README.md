@@ -2,15 +2,16 @@
 
 <p>I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
 
-All of my projects are available @ [https://ruthreed.dev](https://ruthreed.dev). 
+All of my projects are available [here](https://ruthreed.dev). 
 
 You can reach me @ **ruthreed.dev@gmail.com**.
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-<a href="https://blog.ruthreed.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="helloitsrufio" height="30" width="40" /></a>
-<a href="https://twitter.com/helloitsrufio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="helloitsrufio" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ruth-reed/" height="30" width="40" /></a>
+  <a href="https://www.twitch.tv/helloitsrufio" target="blank"><img align="center" src="https://www.svgrepo.com/show/394522/twitch.svg" alt="https://www.linkedin.com/in/ruth-reed/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ruth-reed/" height="30" width="40" /></a>
+  <a href="https://twitter.com/helloitsrufio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="helloitsrufio" height="30" width="40" /></a>
+  <a href="https://blog.ruthreed.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="helloitsrufio" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
