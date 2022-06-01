@@ -81,7 +81,3 @@ You can reach me @ **ruthreed.dev@gmail.com**.
       </tbody>
      </table>
    </section>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloitsrufio&show_icons=true&locale=en" alt="helloitsrufio" /></p>
-
-
