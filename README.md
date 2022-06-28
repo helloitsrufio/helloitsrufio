@@ -67,14 +67,14 @@ You can reach me @ **ruthreed.dev@gmail.com**.
             </p>
            </td>
           <td width='33%' valign='top'>
-            <h4> Opinions Social Network</h4>
-            <img src="https://media.giphy.com/media/eKhhSRRiIW3OrkU5ef/giphy.gif" alt="Gif of Opinions Social Network" style="max-width: 100%;" width="100%"">
+            <h4> Henntober</h4>
+            <img src="https://media.giphy.com/media/TE4DxIxy0Ik0ye0tdR/giphy.gif" alt="Gif of Henntober Art Portfolio" style="max-width: 100%;" width="100%"">
             <br>
             <p>
-              <strong style="max-width: 50%;" width="50%">EJS, TailwindCSS, JavaScript, Node.js, Express.js, MongoDB, Mongoose, Cloudinary</strong>
-              - A social media app built to share and look at other people's opinions. 
+              <strong style="max-width: 50%;" width="50%">HTML5, CSS3</strong>
+              - An art portfolio designed to show helloitsrufio's art for Twitch channel points redemption. 
               <br>
-              <p>You can access this app <a href='https://opinions-social-network.herokuapp.com'>here</a>.</p>
+              <p>You can access this app <a href='https://helloitsrufio.github.io/Henntober-Portfolio/'>here</a>.</p>
             </p>
           </td>
         </tr>
