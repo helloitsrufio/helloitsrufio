@@ -52,7 +52,7 @@ You can reach me @ **ruthreed.dev@gmail.com**.
               <strong style="max-width: 50%;" width="50%">EJS, CSS3, JavaScript, Node.js, Express.js, MongoDB, Cloudinary, Nodemailer</strong>
               - A web app built to enable access to words, phrases, sentences, and their audio counterparts in the Cedar Band dialect of the Southern Paiute language.
              <br>
-              <p>You can access this app <a href='https://southernpaiutedictionary.herokuapp.com/'>here</a>.</p>
+              <p>You can access this app <a href='https://southernpaiutedictionary.com/'>here</a>.</p>
             </p>
           </td>
            <td width='33%' valign='top'>
