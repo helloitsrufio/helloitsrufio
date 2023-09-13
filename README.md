@@ -1,4 +1,4 @@
-<h1 align="center">Hello, it's Rufio! I'm a software engineer @<a href='https://www.sponsorcx.com/'>SponsorCX</a> & <a href="https://leonnoel.com/100devs/">100Devs</a> alumna.</h1>
+<h1 align="center">Hello, it's Rufio! I'm a software engineer & <a href="https://leonnoel.com/100devs/">100Devs</a> alumna.</h1>
 
 <p>I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
 
