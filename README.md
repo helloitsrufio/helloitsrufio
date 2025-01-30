@@ -8,10 +8,10 @@ You can reach me @ **ruthreed.dev@gmail.com**.
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-  <a href="https://www.twitch.tv/helloitsrufio" target="blank"><img align="center" src="https://www.svgrepo.com/show/394522/twitch.svg" alt="https://www.linkedin.com/in/ruth-reed/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ruth-reed/" height="30" width="40" /></a>
-  <a href="https://twitter.com/helloitsrufio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="helloitsrufio" height="30" width="40" /></a>
-  <a href="https://blog.ruthreed.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="helloitsrufio" height="30" width="30" /></a>
+  <a href="https://www.twitch.tv/helloitsrufio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="https://www.linkedin.com/in/ruth-reed/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="https://www.linkedin.com/in/ruth-reed/" height="30" width="40" /></a>
+  <a href="https://bsky.app/profile/helloitsrufio.bsky.social" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/bluesky-1.svg" alt="helloitsrufio" height="30" width="40" /></a>
+  <a href="https://blog.ruthreed.dev" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="helloitsrufio" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,18 +21,36 @@ You can reach me @ **ruthreed.dev@gmail.com**.
       <td style="width="50%"">
         <h4>Front-End Technologies</h4>
         <br>
-        <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> 
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+        <p align="left"> 
+          <a href="https://www.w3schools.com/css/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+          </a>
+          <a href="https://www.figma.com/" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+          </a> 
+          <a href="https://www.w3.org/html/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+          </a> 
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+          </a> 
+          <a href="https://www.typescriptlang.org/" target="_blank">
+            <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/>
+          </a>
+        </p>
       </td>
       <td style="width="50%"">
         <h4>Back-End Technologies</h4>
         <br>
-           <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="node" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank"> 
-          <img src="https://camo.githubusercontent.com/93acca6a99de2894799bf5e78396c83a682e46a4b1d98aa3127ae7b25c3754b6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667" alt='express.js' width="40" height="40"/> </a> <a href='https://expressjs.com/' target='_blank'> 
-          <img src="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" alt='mongodb' width="40" height="40"/> </a> <a href='https://www.mongodb.com/' target='_blank'>
+           <a href="https://nodejs.org/en/" target="_blank">
+             <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> 
+           </a> 
+          <a href='https://expressjs.com/' target='_blank'>
+            <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" alt='express.js' width="40" height="40"/> 
+          </a>  
+          <a href='https://www.mongodb.com/' target='_blank'>
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt='mongodb' width="40" height="40"/> 
+          </a> 
       </td>
     </tr>
   </tbody>
