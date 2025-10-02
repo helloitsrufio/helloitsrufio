@@ -1,10 +1,12 @@
 <h1 align="center">Hello, it's Rufio! I'm a software engineer & <a href="https://leonnoel.com/100devs/">100Devs</a> alumna.</h1>
 
-<p>I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
+<p>I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I stream coding on <a href='https://twitch.tv/helloitsrufio'>Twitch</a> somewhat regularly. I love hanging out with my community and coding alongside you.</p>
 
 All of my projects are available [here](https://ruthreed.dev). 
 
 You can reach me @ **ruthreed.dev@gmail.com**.
+
+Thanks for dropping by :)
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
