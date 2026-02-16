@@ -10,30 +10,35 @@
 </ul>
 
 <div>Thanks for dropping by :)</div>
+<br>
 
 <table border="0" width="100%">
   <tbody>
     <tr>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h3 align="left">Connect with me!</h3>
         <p align="left">
           <a href="https://www.twitch.tv/helloitsrufio" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="Twitch" height="30" width="40" /></a>
           <a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="LinkedIn" height="30" width="40" /></a>
           <a href="https://youtube.com/@helloitsrufio" target="blank"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube Highlights" height="30" width="40" /></a>
-          <span style="vertical-align: middle; font-weight: bold;"> | </span>
+          <span style="vertical-align: middle; font-weight: bold; font-size: 40px; margin: 0 5px;">|</span>
           <a href="https://www.youtube.com/channel/UCotIMz5UDrDMKCHByynP_IQ" target="blank"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube VODs" height="30" width="40" /></a>
           <a href="https://bsky.app/profile/helloitsrufio.bsky.social" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/bluesky-1.svg" alt="Bluesky" height="30" width="40" /></a>
-          <a href="https://blog.ruthreed.dev" target="blank"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Blog" height="25" width="25" /></a>
+          <a href="https://blog.ruthreed.dev" target="blank"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Blog" height="28" width="28" /></a>
         </p>
       </td>
-      <td width="50%" valign="top">
+      <td width="60%" valign="top">
         <h3 align="left">Languages and Tools</h3>
+        <strong>Front-End</strong><br>
         <p align="left">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
           <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="35" height="35"/>
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/>
+        </p>
+        <strong>Back-End</strong><br>
+        <p align="left">
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="35" height="35"/>
           <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" alt="express" width="35" height="35"/>
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="35" height="35"/>
