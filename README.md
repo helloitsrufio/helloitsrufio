@@ -12,18 +12,23 @@
 <div>Thanks for dropping by :)</div>
 
 <h3 align="left">Connect with me!</h3>
-<p align="left">
-  <a href="https://www.twitch.tv/helloitsrufio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="Link to Rufio's Twitch channel." height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="Link to Rufio's LinkedIn profile." height="30" width="40" /></a>
-  <a href="https://youtube.com/@helloitsrufio" target="blank">
-    <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube Highlights" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCotIMz5UDrDMKCHByynP_IQ" target="blank">
-    <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube VODs" height="30" width="40" />
-  </a>
-  <a href="https://bsky.app/profile/helloitsrufio.bsky.social" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/bluesky-1.svg" alt="Link to Rufio's Bluesky account." height="30" width="40" /></a>
-  <a href="https://blog.ruthreed.dev" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Link to Rufio's blog." height="30" width="30" /></a>
-</p>
+<table border="0">
+  <tr>
+    <td valign="middle">
+      <a href="https://www.twitch.tv/helloitsrufio" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="Twitch" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="LinkedIn" height="30" width="40" /></a>
+      <a href="https://youtube.com/helloitsrufio" target="blank"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube Highlights" height="30" width="40" /></a>
+    </td>
+    <td valign="middle" style="padding: 0 10px;">
+      <strong style="font-size: 20px;">|</strong>
+    </td>
+    <td valign="middle">
+      <a href="https://www.youtube.com/channel/UCotIMz5UDrDMKCHByynP_IQ" target="blank"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube VODs" height="30" width="40" /></a>
+      <a href="https://bsky.app/profile/helloitsrufio.bsky.social" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/bluesky-1.svg" alt="Bluesky" height="30" width="40" /></a>
+      <a href="https://blog.ruthreed.dev" target="blank"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Blog" height="30" width="30" /></a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
