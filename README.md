@@ -4,6 +4,7 @@
 
 <ul>
   <li><strong>Missed a stream?</strong> Check out my VOD archives on <a href='https://www.youtube.com/channel/UCotIMz5UDrDMKCHByynP_IQ'>my VODs channel</a>.</li>
+  <li><strong>Want the highlights?</strong> Check out my <a href='https://youtube.com/helloitsrufio'>Main YouTube</a>.</li>
   <li><strong>Portfolio:</strong> All of my projects are available <a href="https://ruthreed.dev">here</a>.</li>
   <li><strong>Get in touch:</strong> You can reach me @ <strong>ruthreed.dev@gmail.com</strong>.</li>
 </ul>
@@ -14,7 +15,12 @@
 <p align="left">
   <a href="https://www.twitch.tv/helloitsrufio" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="Link to Rufio's Twitch channel." height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ruth-reed/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="Link to Rufio's LinkedIn profile." height="30" width="40" /></a>
-  <a href="https://youtube.com/helloitsrufio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="Link to Rufio's main Youtube." height="30" width="40" /></a>
+  <a href="https://youtube.com/@helloitsrufio" target="blank">
+    <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube Highlights" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCotIMz5UDrDMKCHByynP_IQ" target="blank">
+    <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube VODs" height="30" width="40" />
+  </a>
   <a href="https://bsky.app/profile/helloitsrufio.bsky.social" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/bluesky-1.svg" alt="Link to Rufio's Bluesky account." height="30" width="40" /></a>
   <a href="https://blog.ruthreed.dev" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Link to Rufio's blog." height="30" width="30" /></a>
 </p>
