@@ -3,8 +3,8 @@
 <p>I am a full-stack software engineer specializing in the MERN stack. When I'm not coding, drawing, or reading, I'm livestreaming coding on <a href='https://twitch.tv/helloitsrufio'>Twitch</a> twice a week. I love hanging out with my community, so come code with me!</p>
 
 <ul>
-  <li><strong>Missed a stream?</strong> Check out my VOD archives on <a href='https://www.youtube.com/channel/UCotIMz5UDrDMKCHByynP_IQ'>my VODs channel</a>.</li>
-  <li><strong>Want the highlights?</strong> Check out my <a href='https://youtube.com/helloitsrufio'>Main YouTube</a>.</li>
+  <li><strong>Missed a stream?</strong> Check out my VOD archives on <a href='https://www.youtube.com/@helloitsrufio-vods'>my VODs channel</a>.</li>
+  <li><strong>Want the highlights?</strong> Check out my <a href='http://youtube.com/@helloitsrufio'>Main YouTube</a>.</li>
   <li><strong>Portfolio:</strong> All of my projects are available <a href="https://ruthreed.dev">here</a>.</li>
   <li><strong>Get in touch:</strong> You can reach me @ <strong>ruthreed.dev@gmail.com</strong>.</li>
 </ul>
