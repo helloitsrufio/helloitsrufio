@@ -4,7 +4,6 @@
   <p align="center">
     <img src="https://media1.tenor.com/m/NcsFFE6nXIAAAAAC/ariel-little-mermaid.gif"/>
   </p>
-  <br>
   When I'm not coding, drawing, or reading, I'm livestreaming coding and chatting on <a href='https://twitch.tv/helloitsrufio'>Twitch</a> twice a week. I love hanging out with my community there, so come hang out with me!</p>
 
 <ul>
