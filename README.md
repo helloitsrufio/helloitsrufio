@@ -1,7 +1,8 @@
 <h1 align="center">Hello, it's Rufio! I'm a developer advocate & <a href="https://leonnoel.com/100devs/">100Devs</a> alumna.</h1>
 
 <p>I am a developer advocate specializing in community-based events. Call me Ariel because 
-  <img src="https://media1.tenor.com/m/NcsFFE6nXIAAAAAC/ariel-little-mermaid.gif"/>
+  <img src="https://media1.tenor.com/m/NcsFFE6nXIAAAAAC/ariel-little-mermaid.gif" align="center" height="2vh"/>
+  <br>
   When I'm not coding, drawing, or reading, I'm livestreaming coding and chatting on <a href='https://twitch.tv/helloitsrufio'>Twitch</a> twice a week. I love hanging out with my community there, so come hang out with me!</p>
 
 <ul>
