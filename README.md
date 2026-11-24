@@ -2,7 +2,7 @@
 
 <p>I am a developer advocate specializing in community-based events. Call me Ariel because 
   <p align="center">
-    <img src="https://media1.tenor.com/m/NcsFFE6nXIAAAAAC/ariel-little-mermaid.gif"/>
+    <img src="https://media1.tenor.com/m/NcsFFE6nXIAAAAAC/ariel-little-mermaid.gif" alt='gif of the little mermaid Ariel singing "I wanna be where the people are"./>
   </p>
   When I'm not coding, drawing, or reading, I'm livestreaming coding and chatting on <a href='https://twitch.tv/helloitsrufio'>Twitch</a> twice a week. I love hanging out with my community there, so come hang out with me!</p>
 
